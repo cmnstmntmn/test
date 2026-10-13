@@ -1,3 +1,3 @@
 # Titlu
 
-Ana are struguri.
+Ana are struguri si pere.
